@@ -1,3 +1,4 @@
 displayName = Rod of Discord Hotkey That Doesn't Suck
 author = Ilysen
 version = 1.0.0.0
+homepage = https://forums.terraria.org/index.php?threads/avas-mods-thaumaturgy-challenge-runes-yabssm.81892/

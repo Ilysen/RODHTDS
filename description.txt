@@ -6,4 +6,4 @@ This was my huffy solution to that issue. RODHTDS's sole purpose (and none else!
 
 It comes with two hotkeys: Safe Teleport and Unsafe Teleport. Both serve the identical purpose of teleporting you to the cursor, using the exact same code used in the vanilla Rod of Discord, and inflicting Chaos State. Safe Teleport will only teleport you if you don't have Chaos State; it's thus spammable without fear of accidentally teleporting twice and dealing heavy damage! Unsafe Teleport will teleport regardless of Chaos State, possibly causing damage.
 
-Both keys have a half-second cooldown (identical to vanilla RoD) both for balance and to prevent mashing Unsafe Teleport instantly killing you.
+Both keys have a half-second cooldown (identical to vanilla RoD) both for balance and to prevent mashing Unsafe Teleport instantly shredding you.
