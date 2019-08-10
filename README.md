@@ -11,6 +11,12 @@ Both keys have a half-second cooldown (identical to vanilla RoD) both for balanc
 
 # Changelog
 
+### Aug. 10, 2019
+
+#### 1.0.0.2
+
+* Removes some unused code that probably took up processing power.
+
 ### Aug. 7, 2019
 
 #### 1.0.0.1

@@ -9,13 +9,6 @@ namespace RODHTDS
 {
     public class ROTHTDSPlayer : ModPlayer
     {
-        double unsafeTeleportTimer = 0;
-        public override void PostUpdate()
-        {
-            double deltaTime = Main.time - (int)Main.time;
-            unsafeTeleportTimer -= deltaTime;
-        }
-
         public override void ProcessTriggers(TriggersSet triggersSet)
         {
             if ((RODHTDS.safeRodKey.JustPressed || RODHTDS.unsafeRodKey.JustPressed) && player.itemTime <= 0)
